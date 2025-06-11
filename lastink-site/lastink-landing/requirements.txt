@@ -135,9 +135,7 @@ torch==2.6.0
 torchaudio==2.6.0
 tqdm==4.67.1
 # Editable install with no version control (trainer==0.0.36)
--e c:\users\asus\downloads\trainer-main\trainer-main
 transformers==4.51.2
--e git+https://github.com/coqui-ai/TTS.git@dbf1a08a0d4e47fdad6172e433eeb34bc6b13b4e#egg=TTS
 twilio==9.5.1
 typeguard==4.4.2
 typer==0.15.2
