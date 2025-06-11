@@ -1,1 +1,1 @@
-delete-this.txt
+Renaming to delete broken templates file
